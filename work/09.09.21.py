@@ -17,4 +17,4 @@ print(initals(name))
 name.split()
 names = name.split()
 result =  names[0] + ' ' + names[1][0:1] + '.' + names[2][0:1] + '.'
-print (result)
+print (result) 
