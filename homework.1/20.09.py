@@ -1,5 +1,5 @@
 def unique(array):
-    return [i for i in set(array) if array.count(i) == 1]
+    return [i for i in set(array)]
 
 
 def intersection(list_1, list_2):
